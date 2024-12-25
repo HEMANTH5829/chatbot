@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-Session
+PyPDF2
+SQLAlchemy
+Werkzeug
+cachelib
+flask
+flask-session
+gunicorn
+pandas
+sqlalchemy
+werkzeug
